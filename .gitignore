@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+*.log
+# Personal data: keep out of git unless the repo is private and you mean to store it
+data/private/
